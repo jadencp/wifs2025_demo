@@ -1,0 +1,83 @@
+[
+    {
+        "title":"The Pinnacles",
+        "discription":"One of the top ranked tourist attractions in WA. You’re going to get to feeling like you’ve just landed on another planet. Some pinnacles reach up to 3.5m tall. Some are jagged, sharp-edged columns, rising to a point, while others resemble tombstones. There are features that provide clues to the origin of the Pinnacles which can be seen by the astute observer.",
+        "link":"https://exploreparks.dbca.wa.gov.au/site/pinnacles-desert-lookout-and-drive",
+        "imgSrc": "/images/tourist_pinnacles_squ.png"
+    },
+    {
+        "title": "Rottnest Island",
+        "link": "https://www.thrillophilia.com/attractions/rottnest-island",
+        "discription": "Rottnest Island is a small island formed on a base of aeolianite limestone located off the coast of Perth. It is one of the popular places to visit in Perth for its beautiful beaches, crystal clear waters, and unique wildlife.",
+        "imgSrc": "/images/tourist_rottnest_island_squ.png"
+    },
+    {
+        "title":"Busselton Jetty",
+        "discription":"The longest jetty in the Southern Hemisphere. It features a rail line along its length, a relic of the railway line, carring tourists along the jetty to an underwater observatory.",
+        "link":"https://www.busseltonjetty.com.au/",
+        "imgSrc": "/images/tourist_busselton_jetty_squ.png"
+    },
+    {
+        "title":"Pink Lake @ Port Gregory",
+        "discription":"Port Gregory Pink Lake, also known as Pink Lake Hutt Lagoon, Pink Lake Kalbarri or Hutt agoon Pink Lake, is situated along the Coral Coast near the small town of Port Gregory. This lake is famous for its accessibility and stunning views from the George Grey Drive lookout.  Kids will love the contrast between the pink lake, the dunes, and the sea.",
+        "link":"https://westernaustraliantravel.com/pink-lakes-western-australia/",
+        "imgSrc": "/images/tourist_pink_lake.png"
+    },
+    {
+        "title": "Swan River Scenic Cruise",
+        "link": "https://www.viator.com/tours/Perth/Swan-River-Scenic-Cruise/d389-3337SRSC",
+        "discription": "The Swan River is a major river in the southwest of Western Australia. The river runs through the metropolitan area of Perth, Western Australia's capital and largest city.",
+        "imgSrc": "/images/tourist_swam_river.png"
+    },
+    {
+        "title": "Perth Bell Tower",
+        "link": "https://www.viator.com/tours/Perth/Bell-Tower-Experience/d389-37775P1",
+        "discription": "The Swan Bells are a set of 18 bells hanging in a specially built 82.5-metre-high (271 ft) copper and glass campanile in Perth, Western Australia. The tower is commonly known as The Bell Tower or the Swan Bell Tower.",
+        "imgSrc": "/images/tourist_bell_tower.png"
+    },
+    {
+        "title": "Hillarys Boat Harbour",
+        "link": "https://hillarysboatharbour.com.au/",
+        "discription": "Hillarys Boat Harbour is a marina and tourist precinct located in Hillarys, north of Perth, Western Australia and on the Indian Ocean. Hillarys Boat Harbour is only 25 minutes from the Perth CBD and is accessible by water, car, bus, foot, bicycle and even helicopter.",
+        "imgSrc": "/images/tourict_hillarys_boat_harbour.png"
+    },
+    {
+        "title": "Kings Park and Botanic Garden Perth",
+        "link": "https://www.bgpa.wa.gov.au/kings-park",
+        "discription": "With beautiful views of the Swan River and Darling Range, Kings Park and Botanic Garden is an oasis of peace near the heart of the city. It's also one of the largest inner-city parks in the world.",
+        "imgSrc": "/images/tourist_kings_park.png"
+    },
+    {
+        "title": "Cottesloe Beach",
+        "link": "https://en.wikipedia.org/wiki/Cottesloe_Beach",
+        "discription": "Sun lovers can choose from a bevy of beautiful beaches in and around Perth. Less than a 15-minute drive from the city center, pine-fringed Cottesloe is one of Perth's most popular beaches, with clear waters and a thriving café culture.",
+        "imgSrc": "/images/tourist_cottesloe_beach.png"
+    },
+    {
+        "title": "The Perth Mint",
+        "link": "https://www.perthmint.com/",
+        "discription": "Popular with adults and children, the Perth Mint offers a fascinating glimpse into the history of gold in Western Australia. The Gold Exhibition displays the world's largest coin, weighing a whopping one-tonne, as well as gold nuggets and bullion.",
+        "imgSrc": "/images/tourist_perth_mint.png"
+    },
+    {
+        "title": "Swan Valley",
+        "link": "https://www.swanvalley.com.au/Home",
+        "discription": "The Swan Valley is a region located in the upper reaches of the Swan River in Western Australia. It is home to a number of wineries and breweries, as well as many other attractions such as restaurants, cafes, and farmers markets.",
+        "imgSrc": "/images/tourist_swan_valley.png"
+    },
+    {
+        "title": "Art Gallery Of Western Australia",
+        "link": "https://artgallery.wa.gov.au/",
+        "discription": "The Art Gallery of Western Australia (AGWA) is a public art museum located in Perth and opened in 1979. It is the state's premier visual arts institution and is home to a diverse collection of artworks from Western Australia and around the world. The AGWA's collection includes over 18,000 works of art, ranging from historical to contemporary pieces.",
+        "imgSrc": "/images/tourist_art_gallery.png"
+    },
+    {
+        "title": "Penguin Island",
+        "link": "https://www.penguinisland.com.au/",
+        "discription": "Penguin Island is a popular destination for tourists and locals alike, known for its beautiful beaches, wildlife, and conservation efforts. One of the main Perth attractions of Penguin Island is the opportunity to see penguins up close. The island is home to a colony of little penguins, the smallest species of penguin in the world.",
+        "imgSrc": "/images/tourist_penguin_island.png"
+    }
+]
+
+ 
+
